@@ -1,0 +1,67 @@
+table { 
+    margin: auto;
+    border: 1px solid black; 
+    border-radius: 10px;
+    border-spacing: 5px;
+    background-color: #073022; 
+} 
+
+input[type="button"] { 
+    width: 100%; 
+    padding: 20px 40px; 
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color: #c8e1cc; 
+    color: black; 
+    font-family: monospace, sans-serif;
+    font-size: 30px; 
+    text-align: center;
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+    box-shadow: 0 4px #b8d8be;
+} 
+
+input[type="button"]:hover { 
+    background-color:#2e8a6a;
+    color:black;
+}
+
+input[type="text"] { 
+    padding: 20px 40px; 
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-family: monospace, sans-serif;
+    font-size: 24px;
+    font-weight: bold; 
+    border: none;
+    border-radius: 5px; 
+    border: 2px solid black;
+    box-shadow: 0 4px #b8d8be; 
+} 
+
+#clear { 
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding: 18px 40px; 
+    background-color:	#2e8a6a; 
+    color: black; 
+    font-family: monospace, sans-serif;
+    font-size: 30px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px;
+} 
+
+#equal { 
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding: 20px 40px;
+    background-color:#2e8a6a; 
+    color: black; 
+    font-family: monospace, sans-serif;
+    font-size: 30px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 5px;
+} 
